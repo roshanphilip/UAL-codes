@@ -84,8 +84,12 @@ III] Steps to Plotting function code:
 	  X3. Legends 
 	  X4. Scientific notation 
 3. Run the file - "Figure_gererator.m"
-
-* Ensure that the data files are stored in the same folder as "Figure_gererator.m"
+*Ensure that the data files are stored in the same folder as "Figure_gererator.m"
+%================================================================================================================================================================================%
+NOTE:
+1. Ensure that you are using the latest version of MATLAB (R2023b or later versions).
+2. Rename the variable 'connect' to 'connect_xyz' throughout the code if you don't have access to the latest version of MATLAB.
+3. Ensure that you've created a folder to save the data files at each increment.  
 %================================================================================================================================================================================%
 
 
