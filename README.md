@@ -87,9 +87,9 @@ III] Steps to Plotting function code:
 *Ensure that the data files are stored in the same folder as "Figure_gererator.m"
 %================================================================================================================================================================================%
 NOTE:
-1. Ensure that you are using the latest version of MATLAB (R2023b or later versions).
-2. Rename the variable 'connect' to 'connect_xyz' throughout the code if you don't have access to the latest version of MATLAB.
-3. Ensure that you've created a folder to save the data files at each increment.  
+* Ensure that you are using the latest version of MATLAB (R2023b or later versions).
+* Rename the variable 'connect' to 'connect_xyz' throughout the code if you don't have access to the latest version of MATLAB.
+* Ensure that you've created a folder to save the data files at each increment.  
 %================================================================================================================================================================================%
 
 
