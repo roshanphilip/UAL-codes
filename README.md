@@ -1,5 +1,5 @@
 # UAL-codes
-The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"
+The 'OlderMATLAB' branch of this repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems" compatible with MATLAB 2022 and older.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Ref: R.P. Saji, P. Pantidis, M. Mobasher, A new unified arc-length method for damage mechanics problems 
@@ -87,8 +87,6 @@ III] Steps to Plotting function code:
 *Ensure that the data files are stored in the same folder as "Figure_gererator.m"
 %================================================================================================================================================================================%
 NOTE:
-* Ensure that you are using the latest version of MATLAB (R2023b or later versions).
-* Rename the variable 'connect' to 'connect_xyz' throughout the code if you don't have access to the latest version of MATLAB.
 * Ensure that you've created a folder to save the data files at each increment.  
 %================================================================================================================================================================================%
 
