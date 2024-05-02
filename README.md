@@ -1,5 +1,5 @@
 # UAL-codes
-The 'OlderMATLAB' branch of this repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems" compatible with MATLAB 2022 and older.
+The 'For-MATLAB-versions-before-2023' branch of this repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems" compatible with MATLAB 2022 and older.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Ref: R.P. Saji, P. Pantidis, M. Mobasher, A new unified arc-length method for damage mechanics problems 
