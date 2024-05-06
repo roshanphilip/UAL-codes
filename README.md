@@ -13,7 +13,7 @@ The repository contains the MATLAB code used to model the examples in "A new uni
 %
 % Computational Solid Mechanics Lab, New York University Abu Dhabi
 % Date: 26-Feb-2024 
-% Link to manuscript: https://doi.org/10.48550/arXiv.2308.13758
+% Link to manuscript: https://doi.org/10.1007/s00466-024-02473-5
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 This is the Read me/License file for the 1D and 2D numerical examples presented in the above referenced manuscript.
  
