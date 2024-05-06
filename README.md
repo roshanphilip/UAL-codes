@@ -1,9 +1,9 @@
 # UAL-codes
-The 'For-MATLAB-versions-before-2023' branch of this repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems" compatible with MATLAB 2022 and older.
+The 'For-MATLAB-versions-before-2023' branch of this repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems" [doi:10.1007/s00466-024-02473-5] compatible with MATLAB 2022 and older.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Ref: R.P. Saji, P. Pantidis, M. Mobasher, A new unified arc-length method for damage mechanics problems 
-% Manuscript accepted for publication in Computational Mechanics [Submission ID: CM-24-0028]
+% Journal: Computational Mechanics [doi:10.1007/s00466-024-02473-5]
 % Author 1: Roshan Philip Saji
 % email: rs7625@nyu.edu
 % Author 2: Dr. Panos Pantidis
@@ -12,7 +12,7 @@ The 'For-MATLAB-versions-before-2023' branch of this repository contains the MAT
 % email: mostafa.mobasher@nyu.edu
 %
 % Computational Solid Mechanics Lab, New York University Abu Dhabi
-% Date: 26-Feb-2024 
+% Date: 6-May-2024 
 % Link to manuscript: https://doi.org/10.48550/arXiv.2308.13758
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 This is the Read me/License file for the 1D and 2D numerical examples presented in the above referenced manuscript.
