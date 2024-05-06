@@ -1,9 +1,9 @@
 # UAL-codes
-The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems"
+The repository contains the MATLAB code used to model the examples in "A new unified arc-length method for damage mechanics problems" [doi:10.1007/s00466-024-02473-5]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Ref: R.P. Saji, P. Pantidis, M. Mobasher, A new unified arc-length method for damage mechanics problems 
-% Manuscript accepted for publication in Computational Mechanics [Submission ID: CM-24-0028]
+% Journal: Computational Mechanics [doi:10.1007/s00466-024-02473-5]
 % Author 1: Roshan Philip Saji
 % email: rs7625@nyu.edu
 % Author 2: Dr. Panos Pantidis
